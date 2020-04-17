@@ -1,6 +1,14 @@
-
+html {
+  background-color: #ADCAD6;
+}
 
 h1 {
   font-family: "Georgia";
   background-color: #50514F;
+}
+
+table, th, td {
+  background-color: #99C24D;
+  border: 1px solid black;
+  border-collapse: collapse;
 }
